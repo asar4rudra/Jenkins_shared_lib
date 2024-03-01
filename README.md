@@ -1,1 +1,1 @@
-# Jenkins_shared_lib
+Contains all shared library used by our project
